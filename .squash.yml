@@ -1,0 +1,4 @@
+deployments:
+  default:
+    dockerimage: redmine
+    port_forwarding: 80:3000
